@@ -3,7 +3,7 @@ print("Du vaknar i sängen en vacker morgon när ditt larm ringer. Så trött so
 svar = input().lower 
 if svar == "ja":
     print("Du somnar om och sover resten av dagen. Slut 1/4")
-else:
+elif svar == "nej":
     print("Du kliver upp och inser att du har glömt ditt namn. Vad heter du? ")
     spelare = input()
     print(f"Godmorgon {spelare}")
@@ -13,5 +13,8 @@ Abc = input().lower
 if Abc == "a":
     print("Byborna blir ledsna och börjar gråta för att dem tror att byn kommer gå under samtidigt som dem försöker övertyga dig att dräpa den.\nVad tänker du nu?")
     print("A, Synd för dem, inte mitt problem. \nB, Jag måste nog hjälpa dem.")
-    tanke = input
+    tanke = input().lower
+    if tanke == "a":
+        print("Du fortsätter med din dag så gott som möjligt fast byborna blev besvikna.\nSlut 2/4")
+
         
