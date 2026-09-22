@@ -15,13 +15,13 @@ Abc = input().lower()
 if Abc == "a":
     print("Byborna blir ledsna och börjar gråta för att dem tror att byn kommer gå under samtidigt som dem försöker övertyga dig att dräpa den.\n\nVad tänker du nu? Svara mad A eller B")
     print("\nA, Synd för dem, inte mitt problem. \nB, Jag måste nog hjälpa dem.")
-    tanke = input().lower()
-    if tanke == "a":
+tanke = input().lower()
+if tanke == "a":
         print("Du fortsätter med din dag så gott som möjligt fast byborna blev besvikna.\nSlut 2/4")
-    elif tanke == "b":
+elif tanke == "b":
         print("Motiverad av byborna fortsätter du med din resa")
 
- # tanke måste vara indragen men abc kan inte vara det, funkar ej
+
 elif Abc and tanke == "b":
       print("Du fortsätter med din resa")
         
