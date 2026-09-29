@@ -1,10 +1,10 @@
 ## [Datum] – [Kort titel på problemet]
 
 **Vad gick fel:**
-[Beskriv problemet konkret]
+Inputen funkar bara om man spammar ny rad några gånger.
 
 **Varför:**
-[Din analys av grundorsaken]
+Ingen aning varför
 
 **Hur jag löste det:**
 [Vad du faktiskt gjorde]
