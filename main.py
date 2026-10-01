@@ -49,8 +49,8 @@ if slaget2 == "ja":
           print("Trots all träning är draken för stark och du dör istället.\n slut 3/8")
 
 if slaget2 == "nej":
-     print("Du inser att du har typ ingen chans att slå ner den och springer tillbaka till gamlingens hus.\n Hur gör du nu?\n A, Skaffar en armé som hjälper dig.\n B, Fortsätter träna.\n C, Flyr från byn och gamlingen för att försöka leva ett vanligt liv.")
-tillbaka = input().lower()
+     print("Du inser att du har typ ingen chans att slå ner den och springer tillbaka till gamlingens hus.")
+tillbaka = input("Hur gör du nu?\n A, Skaffar en armé som hjälper dig.\n B, Fortsätter träna.\n C, Flyr från byn och gamlingen för att försöka leva ett vanligt liv.").lower()
 if tillbaka == "b":
      print("Du smyger tillbaka och sover genom natten. Sedan fortsätter du med träningen i flera år.\n Under tiden kommer draken till byn och utplånar allt och alla. Men det är lugnt för du håller på att lära dig dräpa den.\n Slut 6/8")
 elif tillbaka == "a":
@@ -58,6 +58,6 @@ elif tillbaka == "a":
 elif tillbaka or abc == "c":
      print("Under natten springer du iväg in i skogen och lämnar ditt tidigare liv bakom dig.\n När byborna inser att du är borta antar dem att du försökte dräpa draken och förlorade och hos dem kommer du alltid vara en hjälte.\n Nu kommer du aldrig kunna återvända tror du. Men några dagar senare utplånar drakern allt och alla i byn. Men det vet du inte om.\n Slut 8/8 ")
 
-# game = good
-# crashes = 0
-# bugs = gone 
+# game = good 
+# crashes = 0   
+# bugs = gone   
