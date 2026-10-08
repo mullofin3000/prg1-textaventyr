@@ -20,12 +20,13 @@ Uppgiften är av programmeringskaraktär, men du behöver också göra planering
 
 ## Vad berättelsen handlar om
 
-En eller två meningar.
+En dag vaknar du och inser att hela byn har valt dig att dräpa en drake. Du har aldrig gjort det och ville inte heller det.
 
 ## Vägvalen
 
-Vilka val spelaren gör, och vart de leder.
+Första stora flervals frågan frågar vad du ska göra efter du insett att hela byn vill att du ska dräpa draken. Ena är att du säger åt byborna att du inte vill det. Andra är att du accepterar ödet och tredje är att du flyr från byn och skapar ett nytt liv i skogen ensam.
 
 ## Det som var svårast
-
+Det svåraste kanske var att komma på att jag hade gjort indent fel vilket gjorde att koden hoppade.
 ## Om jag hade mer tid
+Om jag hade mer tid hade jag velat göra den mer komplicerad och möjligtvis lite mera spel liknande. Och en bättre historia.

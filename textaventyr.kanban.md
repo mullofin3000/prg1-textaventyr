@@ -8,11 +8,11 @@
 
 ## In Progress
 
+## Done
+
 #### Inga kraschar
 <!-- id: task-1789370399886-49 -->
 vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
-
-## Done
 
 #### Klona repot
 <!-- id: task-1789371224632-115 -->
